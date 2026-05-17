@@ -1,0 +1,1 @@
+ALTER TABLE public.timetable_slots ADD COLUMN IF NOT EXISTS teacher_id uuid;
